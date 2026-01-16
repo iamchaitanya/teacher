@@ -1,0 +1,8 @@
+{
+  "name": "EduConnect: The Teacher-School Bridge",
+  "description": "A modern platform connecting world-class educators with top-tier schools using AI-driven matching and smart career profiling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
